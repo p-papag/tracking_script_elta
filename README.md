@@ -9,3 +9,4 @@
 
 ## Disclaimer
 This script was made to track **only** ELTA parcels.
+You can read more about it [here](https://medium.com/@papagiannopoulos.pan/how-to-hack-a-website-or-how-to-make-your-life-easier-using-bash-scripts-4d43ad684996).
